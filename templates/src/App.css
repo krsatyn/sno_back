@@ -1,0 +1,30 @@
+.Example_container{
+  display: flex;
+}
+.img__block{
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+}
+.img{
+  width: 640px;
+  height: 480px;
+}
+.input_img{
+  width: 250px;
+  height: 75px;
+  color: black;
+}
+.Apply_button{
+  width: 250px;
+  height: 50px;
+}
+.News_block{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.input_txt{
+  width: 150px;
+  height: 25px;
+}
